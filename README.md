@@ -1,5 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kpPJwmSJ)
-# Laboratory 03 — Time Series XAI and uncertainty 
+
+# Laboratory 03 — Time Series XAI and uncertainty
 
 This repository contains the materials for Laboratory Practice 03: Time series. The laboratory consists in completing the comments in the `panama_load.ipynb` notebook.
 
@@ -8,4 +9,3 @@ All necessary instructions are in the notebook. This is much less guided than th
 ---
 
 Good luck and enjoy the lab!
-
